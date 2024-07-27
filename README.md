@@ -38,4 +38,4 @@ SocialQuery is built using the tech stack :
 - 🎯 Result Updation on both sides
 - 👁 & More
 
-# Lets build something awesome #HACKNITR
+
